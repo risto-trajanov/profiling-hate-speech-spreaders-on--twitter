@@ -9,6 +9,7 @@ The data used for this project can be found [here](https://zenodo.org/record/460
 ## Progress 
 
 * Data preparation
+  * Process data for model
 ⋅⋅* Process data for model
 ⋅⋅* Word count, and basic statistics on data
 * RoBerta Model # innitial model for start taken from [here](https://www.kaggle.com/jaskaransingh/fake-news-classification-bert-roberta)
